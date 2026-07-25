@@ -1,6 +1,6 @@
-#                                  Hey, I'm Sai Kumar 👋
+# Hey, I'm Sai Kumar 👋
 
-*Data Analyst | AI & Data Solutions | Turning raw data into actionable business insights*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Data+Analyst;AI+%26+Data+Solutions;Turning+raw+data+into+actionable+insights)](https://git.io/typing-svg)
 
 ---
 

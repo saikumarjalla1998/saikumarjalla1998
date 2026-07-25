@@ -5,10 +5,7 @@
 *Data Analyst | AI & Data Solutions | Turning raw data into actionable insights*
 
 <br />
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Analyst;Turning+data+into+insights;Data+drives+decisions;Every+number+tells+a+story;Analyze+Visualize+Optimize;Making+data+meaningful;From+data+to+decisions)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Analyst;%E2%80%9CTurning+data+into+insights%E2%80%9D;%E2%80%9CData+drives+decisions%E2%80%9D;%E2%80%9CEvery+number+tells+a+story%E2%80%9D;%E2%80%9CAnalyze+Visualize+Optimize%E2%80%9D;%E2%80%9CMaking+data+meaningful%E2%80%9D;%E2%80%9CFrom+data+to+decisions%E2%80%9D)](https://git.io/typing-svg)
 ---
 
 ## 🚀 About Me

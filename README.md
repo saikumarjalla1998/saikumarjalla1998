@@ -10,9 +10,10 @@
 ---
 
 ## 🚀 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Technologist.png" alt="About Me" width="30" height="30" /> About Me
 
 <p align="center">
-  I’m a Data Analyst proficient in SQL, Python, Excel, and Power BI to analyze complex datasets, detect trends, and solve key business challenges.
+  I’m a <b>Data Analyst</b> proficient in SQL, Python, Excel, and Power BI to analyze complex datasets, detect trends, and solve key business challenges.
 </p>
 
 <p align="left" style="display: inline-block; text-align: left;">
@@ -21,7 +22,6 @@
   🤖 <b>Power user of modern AI workflows, prompt engineering, and automated reporting</b><br />
   💼 <b>Open to collaborations, analytics roles, and project opportunities</b>
 </p>
-
 ---
 
 ## 🛠️ Skills & Tools
@@ -53,8 +53,8 @@
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com](https://www.linkedin.com/in/jalla-sai-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:saikumarjalla1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 </div>

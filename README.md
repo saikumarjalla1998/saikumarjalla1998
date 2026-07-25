@@ -6,8 +6,8 @@
 
 <br />
 
-<!-- Typing Animation Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Exploratory+Data+Analysis+(EDA);AI-Driven+Analytics+%26+Automation;Building+Interactive+Dashboards)](https://git.io/typing-svg)
+<!-- Header Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Analyst;%E2%80%9CIn+God+we+trust%2C+all+others+must+bring+data.%E2%80%9D;%E2%80%9CData+is+the+new+oil%2C+insights+are+the+refined+fuel.%E2%80%9D;Turning+Raw+Data+Into+Business+Decisions)](https://git.io/typing-svg)
 
 ---
 
@@ -15,12 +15,14 @@
 
 <p align="center">
   I’m a Data Analyst proficient in SQL, Python, Excel, and Power BI to analyze complex datasets, detect trends, and solve key business challenges.
-  <br /><br />
-  My workflow spans end-to-end analytics: data extraction & cleaning, exploratory data analysis (EDA), advanced SQL querying, and building interactive dashboards. I also leverage AI tools and automation to streamline analytical workflows and enhance efficiency.
 </p>
 
-<!-- About Me Typing Highlights -->
-[![About Me Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2EA043&center=true&vCenter=true&width=650&lines=%F0%9F%93%8A+Passionate+about+data-driven+problem+solving;%F0%9F%93%98+Designing+intuitive+dashboards+for+business+decisions;%F0%9F%A4%96+Power+user+of+modern+AI+workflows+%26+prompt+engineering;%F0%9F%90%BC+Open+to+collaborations%2C+analytics+roles%2C+%26+projects)](https://git.io/typing-svg)
+<p align="left" style="display: inline-block; text-align: left;">
+  📊 <b>Passionate about data-driven problem solving and storytelling</b><br />
+  📈 <b>Designing intuitive dashboards for executive and business decision-making</b><br />
+  🤖 <b>Power user of modern AI workflows, prompt engineering, and automated reporting</b><br />
+  💼 <b>Open to collaborations, analytics roles, and project opportunities</b>
+</p>
 
 ---
 
@@ -53,7 +55,7 @@
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 

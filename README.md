@@ -1,6 +1,14 @@
+<div align="center">
+
 # Hey, I'm Sai Kumar 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Data+Analyst;AI+%26+Data+Solutions;Turning+raw+data+into+actionable+insights)](https://git.io/typing-svg)
+*Data Analyst | AI & Data Solutions | Turning raw data into actionable business insights*
+
+<br />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Analyst;AI+%26+Data+Solutions;Turning+raw+data+into+actionable+insights)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -32,5 +40,3 @@ My workflow spans end-to-end analytics: data extraction & cleaning, exploratory 
   <img src="https://img.shields.io/badge/ChatGPT-740016?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
 </marquee>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)

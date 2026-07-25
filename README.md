@@ -3,9 +3,7 @@
 # Hey, I'm Sai Kumar 👋
 
 <br />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Data+Analyst;AI+%26+Data+Solutions;Turning+raw+data+into+actionable+insights)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Exploratory+Data+Analysis+(EDA);AI-Driven+Analytics+%26+Automation;Building+Interactive+Dashboards)](https://git.io/typing-svg)
 </div>
 
 ---

@@ -6,8 +6,8 @@
 
 <br />
 
-<!-- Header Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Analyst;%E2%80%9CIn+God+we+trust%2C+all+others+must+bring+data.%E2%80%9D;%E2%80%9CData+is+the+new+oil%2C+insights+are+the+refined+fuel.%E2%80%9D;Turning+Raw+Data+Into+Business+Decisions)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Analyst;Turning+data+into+insights;Data+drives+decisions;Every+number+tells+a+story;Analyze+Visualize+Optimize;Making+data+meaningful;From+data+to+decisions)](https://git.io/typing-svg)
 
 ---
 

@@ -25,7 +25,11 @@ My workflow spans end-to-end analytics: data extraction & cleaning, exploratory 
 
 ## Skills & Tools
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
+<div align="center">
+
+## Skills & Tools
+
+<p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -37,4 +41,7 @@ My workflow spans end-to-end analytics: data extraction & cleaning, exploratory 
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/ChatGPT-740016?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
+</p>
+
+</div>0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
 </marquee>

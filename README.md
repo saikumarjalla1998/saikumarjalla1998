@@ -5,12 +5,13 @@
 *Data Analyst | AI & Data Solutions | Turning raw data into actionable insights*
 
 <br />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Analyst;%E2%80%9CTurning+data+into+insights%E2%80%9D;%E2%80%9CData+drives+decisions%E2%80%9D;%E2%80%9CEvery+number+tells+a+story%E2%80%9D;%E2%80%9CAnalyze+Visualize+Optimize%E2%80%9D;%E2%80%9CMaking+data+meaningful%E2%80%9D;%E2%80%9CFrom+data+to+decisions%E2%80%9D)](https://git.io/typing-svg)
 ---
 
 ##  About Me
 <p align="left" style="display: inline-block; text-align: left;">
-  🚀I’m a <b>Data Analyst</b> proficient in SQL, Python, Excel, and Power BI to analyze complex datasets, detect trends, and solve key business challenges</b><br />
+  🚀I’m a <b>Data Analyst proficient in SQL, Python, Excel, and Power BI to analyze complex datasets, detect trends, and solve key business challenges</b><br />
   📊 <b>Passionate about data-driven problem solving and storytelling</b><br />
   📈 <b>Designing intuitive dashboards for executive and business decision-making</b><br />
   🤖 <b>Power user of modern AI workflows, prompt engineering, and automated reporting</b><br />

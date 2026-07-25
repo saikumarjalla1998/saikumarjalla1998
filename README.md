@@ -19,8 +19,6 @@ My workflow spans end-to-end analytics: data extraction & cleaning, exploratory 
 
 ## Skills & Tools
 
-## Skills & Tools
-
 <marquee behavior="scroll" direction="left" scrollamount="6">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
@@ -34,9 +32,5 @@ My workflow spans end-to-end analytics: data extraction & cleaning, exploratory 
   <img src="https://img.shields.io/badge/ChatGPT-740016?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
 </marquee>
----
 
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)

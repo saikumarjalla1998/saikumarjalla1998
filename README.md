@@ -11,7 +11,7 @@
 
 ##  About Me
 <p align="left" style="display: inline-block; text-align: left;">
-  🚀I’m a <b>Data Analyst proficient in SQL, Python, Excel, and Power BI to analyze complex datasets, detect trends, and solve key business challenges</b><br />
+  🚀 <b>I’m a Data Analyst proficient in SQL, Python, Excel, and Power BI to analyze complex datasets, detect trends, and solve key business challenges</b><br />
   📊 <b>Passionate about data-driven problem solving and storytelling</b><br />
   📈 <b>Designing intuitive dashboards for executive and business decision-making</b><br />
   🤖 <b>Power user of modern AI workflows, prompt engineering, and automated reporting</b><br />
